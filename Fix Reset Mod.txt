@@ -1,0 +1,15 @@
+titleStr=<b><color=#7DD3FC>ILR768 MOD</color></b>
+
+strContent=<b><color=#FFD166>FILE ĐƯỢC HOÀN THÀNH BỞI</color></b>
+<color=#67E8F9>IRL768</color> <color=#94A3B8>•</color> <color=#C084FC>NGC_6503</color> <color=#94A3B8>•</color> <color=#86EFAC>GHOSTGREAM</color>
+
+<color=#E2E8F0>Đăng Ký Kênh Để Nhận Các Mod Mới.</color>
+
+<color=#E2E8F0>Bấm</color> <b><color=#4ADE80>Thuê Mod</color></b> <color=#E2E8F0>để liên hệ với Admin.</color>
+
+hasCancelBtn=true
+confirmStr=THUÊ MOD
+cancelStr=ĐĂNG KÝ
+onConfirm=https://zalo.me/0369022921
+onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU
+isShowCloseBtn=true

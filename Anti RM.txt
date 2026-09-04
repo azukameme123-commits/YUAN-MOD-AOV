@@ -9,4 +9,6 @@ confirmStr=JOIN GROUP
 cancelStr=ĐĂNG KÝ
 confirmStr2=GỠ MOD
 cancelStr2=TIẾP TỤC
+onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
+onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU
 isShowCloseBtn=false

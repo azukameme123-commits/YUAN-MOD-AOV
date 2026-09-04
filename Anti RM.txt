@@ -1,12 +1,5 @@
 titleStr=<b><color=#7DD3FC>ILR768 MOD</color></b>
-
-strContent=<b><color=#FFD166>FILE ĐƯỢC HOÀN THÀNH BỞI</color></b>
-<color=#67E8F9>IRL768</color> <color=#94A3B8>•</color> <color=#C084FC>NGC_6503</color> <color=#94A3B8>•</color> <color=#86EFAC>GHOSTGREAM</color>
-
-<color=#E2E8F0>Đăng Ký Kênh Để Nhận Các Mod Mới.</color>
-
-<color=#E2E8F0>Bấm</color> <b><color=#4ADE80>Join Group</color></b> <color=#E2E8F0>Để Tham Gia Nhóm Chat</color>
-
+strContent=<b><color=#FFD166>FILE ĐƯỢC HOÀN THÀNH BỞI</color></b>\n<color=#67E8F9>IRL768</color> <color=#94A3B8>•</color> <color=#C084FC>NGC_6503</color> <color=#94A3B8>•</color> <color=#86EFAC>GHOSTGREAM</color>\n\n<color=#E2E8F0>Đăng Ký Kênh Để Nhận Các Mod Mới.</color>\n<color=#E2E8F0>Bấm </color><b><color=#4ADE80>JOIN GROUP</color></b><color=#E2E8F0> Để Tham Gia Nhóm Chat.</color>
 hasCancelBtn=true
 confirmStr=JOIN GROUP
 cancelStr=ĐĂNG KÝ

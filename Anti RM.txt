@@ -1,8 +1,8 @@
 titleStr=<b><color=#35D8FF>IRL768</color><color=#FF637D> MOD</color></b>
-strContent=<size=22><color=#35D8FF>FILE ĐƯỢC HOÀN THÀNH BỞI </color><b><color=#FF637D>IRL768</color></b></size>\n<size=19><color=#FF637D>NGC_6503</color><color=#35D8FF> • GHOSTGREAM</color></size>\n\n<size=18><i><color=#35D8FF>Bạn đang sử dụng bản mod của </color><b><color=#FF637D>IRL768</color></b></i></size>\n<size=17><color=#35D8FF>Bấm “Tiếp tục” để chơi tiếp, </color><color=#FF637D>bấm “Gỡ mod” để khôi phục nhanh.</color></size>\n\n<size=15><color=#FF637D>YouTube: @ilr768</color><color=#35D8FF>  •  Zalo: IRL768 MOD</color></size>
+strContent=<size=22><color=#35D8FF>FILE ĐƯỢC HOÀN THÀNH BỞI </color><b><color=#FF637D>IRL768</color></b></size>\n<size=19><color=#FF637D>NGC_6503</color><color=#35D8FF> • GHOSTGREAM</color></size>\n\n<size=18><i><color=#35D8FF>Bạn đang sử dụng bản mod của </color><b><color=#FF637D>IRL768</color></b></i></size>\n<size=17><color=#35D8FF>Giao diện phối </color><b><color=#FF637D>CYAN × CORAL</color></b><color=#35D8FF> theo nền popup mùa mới.</color></size>\n\n<size=15><color=#FF637D>YouTube: @ilr768</color><color=#35D8FF>  •  Zalo: IRL768 MOD</color></size>
 hasCancelBtn=true
 isShowCloseBtn=false
-confirmStr=GỠ MOD
-cancelStr=TIẾP TỤC
+confirmStr=NHÓM ZALO
+cancelStr=KÊNH YOUTUBE
 onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
 onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU

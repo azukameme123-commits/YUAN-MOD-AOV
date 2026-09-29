@@ -1,8 +1,8 @@
-titleStr=<b><color=#35D8FF>IRL768</color><color=#FF637D> MOD</color></b>
-strContent=<size=22><color=#35D8FF>FILE ĐƯỢC HOÀN THÀNH BỞI </color><b><color=#FF637D>IRL768</color></b></size>\n<size=19><color=#FF637D>NGC_6503</color><color=#35D8FF> • GHOSTGREAM</color></size>\n\n<size=18><i><color=#35D8FF>Bạn đang sử dụng bản mod của </color><b><color=#FF637D>IRL768</color></b></i></size>\n<size=17><color=#35D8FF>Giao diện phối </color><b><color=#FF637D>CYAN × CORAL</color></b><color=#35D8FF> theo nền popup mùa mới.</color></size>\n\n<size=15><color=#FF637D>YouTube: @ilr768</color><color=#35D8FF>  •  Zalo: IRL768 MOD</color></size>
+titleStr=<b><color=#69D9FF>LƯU Ý</color></b>
+strContent=<size=22><color=#48D5FF>BẢN MOD ĐƯỢC HOÀN THIỆN BỞI </color><b><color=#67E8F9>IRL768</color></b></size>\n\n<size=19><b><color=#F2F5FF>CẢM ƠN BẠN ĐÃ TRẢI NGHIỆM MOD CỦA KÊNH MÌNH</color></b></size>\n<size=17><color=#CBD5E8>Chúc bạn có những trận đấu thật vui và trải nghiệm bản mod ổn định.</color></size>\n\n<size=14><i><color=#B8C4DC>Gợi ý: Ấn </color><b><color=#FFD36A>X</color></b><color=#B8C4DC> để đóng Pop Up</color></i></size>
 hasCancelBtn=true
-isShowCloseBtn=false
-confirmStr=NHÓM ZALO
-cancelStr=KÊNH YOUTUBE
-onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
-onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU
+isShowCloseBtn=true
+confirmStr=XOÁ MOD
+cancelStr=TIẾP TỤC
+onConfirm=nil
+onCancel=nil

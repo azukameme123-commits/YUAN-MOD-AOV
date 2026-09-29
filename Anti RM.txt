@@ -2,7 +2,7 @@ titleStr=<b><color=#69D9FF>LƯU Ý</color></b>
 strContent=<size=22><color=#48D5FF>BẢN MOD ĐƯỢC HOÀN THIỆN BỞI </color><b><color=#67E8F9>IRL768</color></b></size>\n\n<size=19><b><color=#F2F5FF>CẢM ƠN BẠN ĐÃ TRẢI NGHIỆM MOD CỦA KÊNH MÌNH</color></b></size>\n<size=17><color=#CBD5E8>Chúc bạn có những trận đấu thật vui và trải nghiệm bản mod ổn định.</color></size>\n\n<size=14><i><color=#B8C4DC>Gợi ý: Ấn </color><b><color=#FFD36A>X</color></b><color=#B8C4DC> để đóng Pop Up</color></i></size>
 hasCancelBtn=true
 isShowCloseBtn=true
-confirmStr=XOÁ MOD
-cancelStr=TIẾP TỤC
-onConfirm=nil
-onCancel=nil
+confirmStr=NHÓM ZALO
+cancelStr=KÊNH YOUTUBE
+onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
+onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU

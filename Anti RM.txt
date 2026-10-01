@@ -1,8 +1,14 @@
-titleStr=<b><color=#69D9FF>LƯU Ý</color></b>
-strContent=<size=22><color=#48D5FF>BẢN MOD ĐƯỢC HOÀN THIỆN BỞI </color><b><color=#67E8F9>IRL768</color></b></size>\n\n<size=19><b><color=#F2F5FF>CẢM ƠN BẠN ĐÃ TRẢI NGHIỆM MOD CỦA KÊNH MÌNH</color></b></size>\n<size=17><color=#CBD5E8>Chúc bạn có những trận đấu thật vui và trải nghiệm bản mod ổn định.</color></size>\n\n<size=14><i><color=#B8C4DC>Gợi ý: Ấn </color><b><color=#FFD36A>X</color></b><color=#B8C4DC> để đóng Pop Up</color></i></size>
-hasCancelBtn=true
+titleStr=<b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b>
+strContent=<size=21><b><color=#48D5FF>FIX</color> <color=#FF6B7A>RESET</color> <color=#48D5FF>MOD</color> <color=#FF6B7A>HOÀN</color> <color=#48D5FF>THÀNH</color> <color=#FF6B7A>BỞI</color> <color=#48D5FF>IZL768</color></b></size>\n\n<size=17><color=#FF6B7A>HÃY</color> <color=#48D5FF>THEO</color> <color=#FF6B7A>DÕI</color> <color=#48D5FF>YOUTUBE</color> <color=#FF6B7A>ĐỂ</color> <color=#48D5FF>NHẬN</color> <color=#FF6B7A>ĐƯỢC</color> <color=#48D5FF>THÔNG</color> <color=#FF6B7A>BÁO</color> <color=#48D5FF>MỚI</color> <color=#FF6B7A>NHẤT</color></size>\n<size=18><b><color=#48D5FF>YOUTUBE</color> <color=#FF6B7A>:</color> <color=#48D5FF>R768AOV</color></b></size>
+titleStr2=<b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b>
+strContent2=<size=20><b><color=#48D5FF>MẤY</color> <color=#FF6B7A>THẰNG</color> <color=#48D5FF>ĂN</color> <color=#FF6B7A>CẮP</color> <color=#48D5FF>ÓC</color> <color=#FF6B7A>CẶC</color> <color=#48D5FF>THIỂU</color> <color=#FF6B7A>NĂNG</color></b></size>\n\n<size=18><b><color=#FF6B7A>YOUTUBE</color> <color=#48D5FF>:</color> <color=#FF6B7A>R768AOV</color></b></size>
+titleStr3=<b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b>
+strContent3=<size=20><b><color=#48D5FF>BẢN</color> <color=#FF6B7A>MOD</color> <color=#48D5FF>ĐƯỢC</color> <color=#FF6B7A>HOÀN</color> <color=#48D5FF>THÀNH</color> <color=#FF6B7A>BỞI</color> <color=#48D5FF>IZL768</color></b></size>\n<size=17><b><color=#FF6B7A>YOUTUBE</color> <color=#48D5FF>:</color> <color=#FF6B7A>R768AOV</color></b></size>\n\n<size=15><i><color=#48D5FF>Bấm </color><b><color=#FFD36A>X</color></b><color=#FF6B7A> hoặc </color><b><color=#48D5FF>TIẾP TỤC</color></b><color=#FF6B7A> để đóng Pop Up.</color></i></size>\n<size=15><i><color=#48D5FF>Bấm </color><b><color=#FF6B7A>GỠ MOD</color></b><color=#48D5FF> để xoá mod.</color></i></size>
+hasCancelBtn=false
 isShowCloseBtn=true
-confirmStr=NHÓM ZALO
-cancelStr=KÊNH YOUTUBE
-onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
-onCancel=https://youtube.com/@ilr768?si=XgXEsraBq6N_gfsU
+confirmStr=TIẾP TỤC
+cancelStr=
+confirmStr2=GỠ MOD
+cancelStr2=TIẾP TỤC
+onConfirm=nil
+onCancel=nil

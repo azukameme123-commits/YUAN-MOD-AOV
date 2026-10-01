@@ -1,8 +1,8 @@
-titleStr=<b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b>
-strContent=<size=21><b><color=#48D5FF>FIX</color> <color=#FF6B7A>RESET</color> <color=#48D5FF>MOD</color> <color=#FF6B7A>HOÀN</color> <color=#48D5FF>THÀNH</color> <color=#FF6B7A>BỞI</color> <color=#48D5FF>IZL768</color></b></size>\n<size=17><color=#F2F5FF>Hãy theo dõi YouTube để nhận được thông báo mới nhất.</color></size>\n<size=18><color=#F2F5FF>YouTube : </color><b><color=#48D5FF>R768AOV</color></b></size>
+titleStr=<b><color=#69D9FF>LƯU Ý</color></b>
+strContent=<color=#69D9FF>FIX RESET MOD HOÀN THÀNH BỞI IZL768\nHãy theo dõi YouTube để nhận được thông báo mới nhất.\nYouTube : R768AOV</color>
+strContent2=<color=#69D9FF>MẤY THẰNG ĂN CẮP ÓC CẶC THIỂU NĂNG\nYouTube : R768AOV</color>
+strContent3=<color=#69D9FF>CẢM ƠN BẠN ĐÃ TRẢI NGHIỆM MOD\nX hoặc TIẾP TỤC để đóng. GỠ MOD để xoá mod.</color>
 hasCancelBtn=false
 isShowCloseBtn=false
 confirmStr=TIẾP TỤC
 cancelStr=
-onConfirm=<size=18><b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b></size>\n<size=20><b><color=#48D5FF>MẤY</color> <color=#FF6B7A>THẰNG</color> <color=#48D5FF>ĂN</color> <color=#FF6B7A>CẮP</color> <color=#48D5FF>ÓC</color> <color=#FF6B7A>CẶC</color> <color=#48D5FF>THIỂU</color> <color=#FF6B7A>NĂNG</color></b></size>\n<size=18><color=#F2F5FF>YouTube : </color><b><color=#48D5FF>R768AOV</color></b></size>
-onCancel=<size=18><b><color=#48D5FF>LƯU</color> <color=#FF6B7A>Ý</color></b></size>\n<size=19><b><color=#48D5FF>CẢM</color> <color=#FF6B7A>ƠN</color> <color=#48D5FF>BẠN</color> <color=#FF6B7A>ĐÃ</color> <color=#48D5FF>TRẢI</color> <color=#FF6B7A>NGHIỆM</color> <color=#48D5FF>BẢN</color> <color=#FF6B7A>MOD</color></b></size>\n<size=15><i><color=#CBD5E8>Bấm </color><b><color=#FFD36A>X</color></b><color=#CBD5E8> hoặc </color><b><color=#48D5FF>TIẾP TỤC</color></b><color=#CBD5E8> để đóng Pop Up.</color></i></size>\n<size=15><i><color=#CBD5E8>Bấm </color><b><color=#FF6B7A>GỠ MOD</color></b><color=#CBD5E8> để xoá mod bằng Khôi phục nhanh.</color></i></size>

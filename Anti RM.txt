@@ -1,8 +1,8 @@
-titleStr=<b><color=#69D9FF>LƯU Ý</color></b>
-strContent=<color=#69D9FF>FIX RESET MOD HOÀN THÀNH BỞI IZL768\nHãy theo dõi YouTube để nhận được thông báo mới nhất.\nYouTube : R768AOV</color>
-strContent2=<color=#69D9FF>MẤY THẰNG ĂN CẮP ÓC CẶC THIỂU NĂNG\nYouTube : R768AOV</color>
-strContent3=<color=#69D9FF>CẢM ƠN BẠN ĐÃ TRẢI NGHIỆM MOD\nX hoặc TIẾP TỤC để đóng. GỠ MOD để xoá mod.</color>
-hasCancelBtn=false
-isShowCloseBtn=false
-confirmStr=TIẾP TỤC
-cancelStr=
+titleStr=<size=27><b><color=#FFD36C>AESG</color> <color=#5AD6FF>TEAM</color></b></size>
+strContent=<size=20><b><color=#F1F5FF>FILE MOD ĐƯỢC HOÀN THIỆN BỞI</color></b></size>\n<size=23><b><color=#FFD36C>TEAM AESG</color></b></size>\n\n<size=19><color=#C9D5EC>Admin 1 : </color><b><i><u><color=#FF616E>@Xluvlyz7</color></u></i></b></size>\n<size=19><color=#C9D5EC>Admin 2 : </color><b><i><u><color=#77E88A>@Yengzz</color></u></i></b></size>\n<size=19><color=#C9D5EC>Admin 3 : </color><b><i><u><color=#B889F5>@NGC_6503</color></u></i></b></size>\n<size=19><color=#C9D5EC>Admin 4 : </color><b><i><u><color=#61B4FF>@Zeg36</color></u></i></b></size>\n\n<size=17><color=#E2EBF9>Nhận <b>Thuê Remake</b> • <b>Mod HOK</b> • <b>Mod Map</b></color></size>\n<size=17><color=#E2EBF9><b>Nút Bấm</b> • <b>Thông Báo Hạ</b> • <b>Skin</b></color></size>\n<size=17><color=#E2EBF9>Liên hệ qua nút <b><color=#FFD36C>THUÊ MOD</color></b>.</color></size>\n\n<size=14><i><color=#9FAEC4>Gợi Ý Nhỏ : Bấm Dấu </color><b><color=#FFE266>X</color></b><color=#9FAEC4> Để Đóng Popup</color></i></size>
+hasCancelBtn=true
+isShowCloseBtn=true
+confirmStr=THUÊ MOD
+cancelStr=GROUP ZALO
+onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
+onCancel=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y

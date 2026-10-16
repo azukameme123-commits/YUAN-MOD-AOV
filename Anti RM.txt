@@ -1,8 +1,8 @@
 titleStr=<b><color=#FFD45A>AESG</color> <color=#59C7FF>TEAM</color></b>
-strContent=<size=19><b><color=#F5F7FF>FILE MOD ĐƯỢC HOÀN THIỆN BỞI</color></b></size>\n<size=22><b><color=#FFD45A>TEAM AESG</color></b></size>\n\n<size=16><b><color=#FF6A78>Admin 1: @Xluvlyz7</color></b>    <b><color=#7BE26E>Admin 2: @Yengzz</color></b></size>\n<size=16><b><color=#C58BFF>Admin 3: @NGC_6503</color></b>    <b><color=#61B6FF>Admin 4: @Zeg36</color></b></size>\n\n<size=16><b><color=#F2F6FF>Nhận Thuê Remake • Mod HOK • Mod Map</color></b></size>\n<size=16><b><color=#F2F6FF>Nút Bấm • Thông Báo Hạ • Skin</color></b></size>\n<size=15><color=#DDE7FF>Liên hệ qua nút <b><color=#FFD45A>THUÊ MOD</color></b>.</color></size>\n\n<size=12><i><color=#AEB4C6>Gợi ý nhỏ: bấm dấu </color><b><color=#FFD700>X</color></b><color=#AEB4C6> để đóng popup</color></i></size>
+strContent=<size=19><b><color=#F4F8FF>FILE MOD ĐƯỢC HOÀN THIỆN BỞI TEAM </color><color=#FFD56C>AESG</color></b></size>\n<size=18><color=#FF6879><b>Admin 1: @Xluvlyz7</b></color>  <color=#DDE5F6>•</color>  <color=#81E88B><b>Admin 2: @Yengzz</b></color></size>\n<size=18><color=#B58AFF><b>Admin 3: @NGC_6503</b></color>  <color=#DDE5F6>•</color>  <color=#65BAFF><b>Admin 4: @Zeg36</b></color></size>\n\n<size=18><color=#F1F5FF>Cần dịch vụ: <b>Thuê Remake</b> • <b>Mod HOK</b> • <b>Mod Map</b></color></size>\n<size=18><color=#F1F5FF><b>Nút Bấm</b> • <b>Thông Báo Hạ</b> • <b>Skin</b></color></size>\n<size=17><color=#DCE7F9>Liên hệ qua nút </color><b><color=#FFDA65>THUÊ MOD</color></b></size>\n<size=14><i><color=#AFBBD0>Gợi ý nhỏ: Bấm dấu </color><b><color=#FFD34F>X</color></b><color=#AFBBD0> để đóng Popup</color></i></size>
 hasCancelBtn=true
 confirmStr=THUÊ MOD
 cancelStr=GROUP ZALO
 onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
-onCancel=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
+onCancel=https://zalo.me/84369022921
 isShowCloseBtn=true

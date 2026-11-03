@@ -4,5 +4,5 @@ hasCancelBtn=true
 confirmStr=THUÊ MOD
 cancelStr=ĐĂNG KÝ
 onConfirm=https://zalo.me/g/cdsnmnsjjxzozn6p5p2y
-onCancel=https://youtube.com/@zeg36aov?si=Ny-HbcRUFQ__X2lf
+onCancel=https://youtube.com/@xluvlyz7?si=CH0COkmiSCV8h8H1
 isShowCloseBtn=true
